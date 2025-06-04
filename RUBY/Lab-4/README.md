@@ -79,12 +79,5 @@ rails articles:remove_heavily_reported
 ```
 
 
-## Screenshots
-![image](https://github.com/user-attachments/assets/ea53f193-ac44-45ca-b87e-d444a28fabb1)
-![image](https://github.com/user-attachments/assets/f6092fb3-db95-4db0-a070-ea6228f94d7e)
-![image](https://github.com/user-attachments/assets/9d80da06-cedc-4b61-a4b3-7d3d04fbb082)
-![image](https://github.com/user-attachments/assets/3d94621c-bd06-45c0-945c-2c2126ec1921)
-![image](https://github.com/user-attachments/assets/732c9994-387c-4a48-934e-0eb6e9733313)
-![image](https://github.com/user-attachments/assets/654a91be-a84c-4fab-8493-4775cd9d1fba)
 
 
